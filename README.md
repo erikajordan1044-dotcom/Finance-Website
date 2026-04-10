@@ -73,10 +73,4 @@ src/
 npm run build
 ```
 
-The optimized build will be in the `dist/` folder.
-
-## Resources
-
-- [Supabase Documentation](https://supabase.com/docs)
-- [React Documentation](https://react.dev)
-- [Vite Documentation](https://vitejs.dev)
+Erika
